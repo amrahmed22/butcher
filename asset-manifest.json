@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/butcher/static/css/main.d0751df6.css",
-    "main.js": "/butcher/static/js/main.b5e051e9.js",
+    "main.css": "/butcher/static/css/main.ffefbee1.css",
+    "main.js": "/butcher/static/js/main.d9c76470.js",
     "static/js/592.2e112608.chunk.js": "/butcher/static/js/592.2e112608.chunk.js",
     "static/media/x.png": "/butcher/static/media/x.aec3fe6867592373db9d.png",
     "static/media/fa-solid-900.ttf": "/butcher/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -24,12 +24,12 @@
     "static/media/fa-v4compatibility.ttf": "/butcher/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/butcher/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/butcher/index.html",
-    "main.d0751df6.css.map": "/butcher/static/css/main.d0751df6.css.map",
-    "main.b5e051e9.js.map": "/butcher/static/js/main.b5e051e9.js.map",
+    "main.ffefbee1.css.map": "/butcher/static/css/main.ffefbee1.css.map",
+    "main.d9c76470.js.map": "/butcher/static/js/main.d9c76470.js.map",
     "592.2e112608.chunk.js.map": "/butcher/static/js/592.2e112608.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0751df6.css",
-    "static/js/main.b5e051e9.js"
+    "static/css/main.ffefbee1.css",
+    "static/js/main.d9c76470.js"
   ]
 }
